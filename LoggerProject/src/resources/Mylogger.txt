@@ -1,0 +1,4 @@
+abr. 13, 2022 9:16:25 AM projeto.estudo.ArquivoLogger main
+INFO: Log to test
+abr. 13, 2022 9:16:25 AM projeto.estudo.ArquivoLogger main
+INFO: Hi In the main class2
